@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi! 👋</h1>
 
-<!--
-**KaikyCostaa/KaikyCostaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+<h2 align="center">Languages:</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+<h2 align="center">Tools:</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,vscode,git">
+</p>
