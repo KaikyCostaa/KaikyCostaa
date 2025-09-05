@@ -4,7 +4,7 @@
 
 <h2 align="center">Languages:</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,lua">
 </p>
 
 </br>
